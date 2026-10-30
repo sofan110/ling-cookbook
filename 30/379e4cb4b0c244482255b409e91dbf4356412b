@@ -1,0 +1,16 @@
+guide/fine-tuning/ling-3.0-tiny/mac-mlx-payment-lora-zh.ipynb
+  h_891aba84317de8 1-300
+guide/fine-tuning/ling-3.0-tiny/mac-mlx-payment-lora-en.ipynb
+  h_891aba84317de8 1-296
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "30379e4cb4b0c244482255b409e91dbf4356412b",
+  "prompts": {},
+  "humans": {
+    "h_891aba84317de8": {
+      "author": "wufan <wufan@U-6VTRJFJJ-0240.local>"
+    }
+  }
+}
